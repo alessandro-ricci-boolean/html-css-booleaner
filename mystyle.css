@@ -1,3 +1,15 @@
-.logo { 
-width: auto;
+header { 
+    width: auto;
+    background-color: rgb(68, 143, 204);
+    background-size: cover;
+    }
+#logo { 
+    width: 200px;
 }
+#blue { 
+    background-color: #4169e1;
+    color: white;
+    }
+.celeste { 
+    background-color: #11dbff;
+    }
