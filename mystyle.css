@@ -1,7 +1,7 @@
 header { 
-    width: auto;
     background-color: rgb(68, 143, 204);
-    background-size: cover;
+    background-image: url('img/pattern.png');
+    background-size: contain;
     }
 #logo { 
     width: 200px;
